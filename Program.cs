@@ -43,15 +43,15 @@ namespace chohotrt5
             for (int x = 0; x < first.Length; x++)
             {
                 Console.WriteLine("put in array");
-                string aaaa = Console.ReadLine();
-                first[x] = aaaa;
+                string zzz = Console.ReadLine();
+                first[x] = zzz;
 
 
             }
-            foreach (string q in first)
+            foreach (string w in first)
             {
 
-                Console.WriteLine(q);
+                Console.WriteLine(w);
             }
 
 
